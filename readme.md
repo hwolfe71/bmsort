@@ -3,9 +3,6 @@ README for bmsort.pl
 Author:
 
 	Herb Wolfe, Jr
-	hwolfe@inetnebr.com
-	http://incolor.inetnebr.com/hwolfe
-	http://incolor.inetnebr.com/hwolfe/computer/mysoftware/bmsort
 
 License:
 
